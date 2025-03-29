@@ -1,8 +1,9 @@
-Ecco la versione aggiornata con i badge `img.shield` per la versione di Python e per le librerie utilizzate:
-
----
-
-# Telegram Unused Chat Leaver (TUCL) ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) ![Python version](https://img.shields.io/badge/python-3.7%2B-green.svg) ![Telethon](https://img.shields.io/badge/Telethon-1.24.0-blue) ![Pytz](https://img.shields.io/badge/Pytz-2021.1-blue) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=LightYagami28_TUCL--Telegram-Unused-Chat-Leaver&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=LightYagami28_TUCL--Telegram-Unused-Chat-Leaver)
+# Telegram Unused Chat Leaver (TUCL) 
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
+![Python version](https://img.shields.io/badge/python-3.7%2B-green.svg) 
+![Telethon](https://img.shields.io/badge/Telethon-1.24.0-blue)
+![Pytz](https://img.shields.io/badge/Pytz-2021.1-blue) 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=LightYagami28_TUCL--Telegram-Unused-Chat-Leaver&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=LightYagami28_TUCL--Telegram-Unused-Chat-Leaver)
 
 ```
  _____         ___   __  
@@ -120,7 +121,3 @@ Found 3 inactive chats (30+ days):
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-In questa versione, ho aggiunto anche i badge per `Telethon` e `Pytz` con la versione corrente, oltre al badge per la versione di Python. Questi migliorano la visibilità delle librerie e delle dipendenze utilizzate nel progetto.
